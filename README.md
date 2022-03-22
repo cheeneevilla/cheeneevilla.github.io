@@ -5,15 +5,16 @@ owned by: Cheenee Amory B. Villa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [Link] (https://www.youtube.com/watch?v=-IiMN3WANHI)
+### This is a safe place wherever you wanted to focus :)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# ![Image](https://www.google.com/search?q=minimalist&tbm=isch&hl=en&chips=q:minimalist,g_1:aesthetic:oTP3gFovrTw%3D,g_1:wallpaper:3-iNvYcruN4%3D&sa=X&ved=2ahUKEwiKtLTb7tj2AhULx4sBHWJ_Db4Q4lYoAHoECAEQHw&biw=1226&bih=568#imgrc=vceXheDP2hYRmM)
-## Header 2
+# ![image](https://user-images.githubusercontent.com/99943388/159409471-d3887f69-6709-400e-a06d-3222e1006f9c.png)
+
+## If you wanted to feel like you are in a cafe, then play this music :)(<iframe width="560" height="315" src="https://www.youtube.com/embed/BywDOO99Ia0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 ### Header 3
 
 - Bulleted
